@@ -8,20 +8,22 @@ We aimed to provide a faster, more reliable loan experience through the use of m
 
 ### Resources
 * Dataset:
+
 LoanStats_2019Q1.csv
 
-* Software used:
+** Software used:
 
-- Python
-- Jupyter Notebook
+1. Python
+
+2. Jupyter Notebook
 
 Various libraries and algorithms were used to build and evaluate models using resampling including:
 
-1. imbalanced-learn
-scikit-learn
-RandomOverSampler
-SMOTE algorithms
-ClusterCentroids algorithm
-SMOTEENN algorithm
-BalancedRandomForestClassifier (bias reduction model)
-EasyEnsembleClassifier (bias reduction model)
+* imbalanced-learn
+* scikit-learn
+* RandomOverSampler
+* SMOTE algorithms
+* ClusterCentroids algorithm
+* SMOTEENN algorithm
+* BalancedRandomForestClassifier (bias reduction model)
+* EasyEnsembleClassifier (bias reduction model)
