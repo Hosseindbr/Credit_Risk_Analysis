@@ -9,9 +9,9 @@ We aimed to provide a faster, more reliable loan experience through the use of m
 ### Resources
 * Dataset:
 
-LoanStats_2019Q1.csv
+**LoanStats_2019Q1.csv
 
-** Software used:
+* Software used:
 
 1. Python
 
